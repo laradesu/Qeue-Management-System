@@ -1,0 +1,10 @@
+
+      
+        //return output;
+              //const encryptedData = await cipher.update(requestHash);
+              //encryptedData += await cipher.final();
+              //const output = Buffer.concat([iv1, encryptedData]);
+               //after generating the hash, we need to encrypt it using the secrete key...
+         //const hmacBase64 = crypto.createHmac('sha256', requestSessionKey).update(requestHash).digest('base64url');
+        // Print the HMAC to the console.
+        // console.log("requesthmac = ",hmacBase64.length)
