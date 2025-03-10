@@ -35,11 +35,11 @@ app.use(express.json());
 app.use(
   cors({
     origin: [
-      "https://telembot.amhabank.cm.et",
-      "http://172.31.25.46:3330",
-      "http://172.31.2.46:3631",
-      "http://172.34.2.46:3932",
-      "http://172.51.2.46:3433",
+      "https://telembot.abnk.cm.et",
+      "http://172.11.25.46:3330",
+      "http://172.11.2.46:3631",
+      "http://172.33.2.46:3932",
+      "http://172.131.2.46:3433",
       "http://localhost:3000"
     ],
     credentials: true,
