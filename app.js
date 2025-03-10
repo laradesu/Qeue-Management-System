@@ -35,11 +35,11 @@ app.use(express.json());
 app.use(
   cors({
     origin: [
-      "https://telegrambot.amharabank.com.et",
-      "http://172.31.2.46:3030",
+      "https://telembot.amhabank.cm.et",
+      "http://172.31.25.46:3030",
       "http://172.31.2.46:3031",
-      "http://172.31.2.46:3032",
-      "http://172.31.2.46:3033",
+      "http://172.34.2.46:3032",
+      "http://172.51.2.46:3033",
       "http://localhost:3000"
     ],
     credentials: true,
