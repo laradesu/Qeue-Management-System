@@ -36,10 +36,10 @@ app.use(
   cors({
     origin: [
       "https://telembot.amhabank.cm.et",
-      "http://172.31.25.46:3030",
-      "http://172.31.2.46:3031",
-      "http://172.34.2.46:3032",
-      "http://172.51.2.46:3033",
+      "http://172.31.25.46:3330",
+      "http://172.31.2.46:3631",
+      "http://172.34.2.46:3932",
+      "http://172.51.2.46:3433",
       "http://localhost:3000"
     ],
     credentials: true,
